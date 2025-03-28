@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/DataTables/css" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/DataTables/images" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/Jcrop/demo_files" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/bootstrap-datepicker/locales" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/bootstrap/css" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/bootstrap/fonts" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/bootstrap/js" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/ckeditor/adapters" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/ckeditor/lang" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/ckeditor/plugins" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/ckeditor/samples" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/ckeditor/skins" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/fontawesome/css" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/fontawesome/fonts" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/fontawesome/less" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/fontawesome/scss" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/fullcalendar/lang" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/jquery-file-upload/cors" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/jquery-file-upload/css" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/jquery-file-upload/img" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/jquery-file-upload/server" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/jquery-file-upload/vendor" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/jquery-ui/images" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/jquery-validation/localization" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/jstree/themes" />
+      <excludeFolder url="file://$MODULE_DIR$/Hospital-Management-System-master/vendor/themify-icons/fonts" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
